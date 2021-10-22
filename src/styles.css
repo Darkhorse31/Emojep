@@ -1,0 +1,23 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+.App {
+  display: flex;
+  flex-direction: row;
+}
+.dictionary {
+  margin: 60px;
+  padding: 20px;
+  width: 400px;
+  height: 350px;
+  box-shadow: 10px 8px 8px 0 rgba(0, 0, 0, 0.2);
+  text-align: center;
+}
+.image {
+  width: 150px;
+  height: 150px;
+}
+.name {
+  font-size: 30px;
+}
